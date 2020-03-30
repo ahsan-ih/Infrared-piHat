@@ -17,7 +17,7 @@ The project is released under the [Creative Commons Attribution-ShareAlike 4.0 I
 
 Note: This is a human-readable summary of (and not a substitute for) the [license](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
-You are free to:
+You are free to:(does this work?)
 
 Share — copy and redistribute the material in any medium or format Adapt — remix, transform, and build upon the material for any purpose, even commercially. The licensor cannot revoke these freedoms as long as you follow the license terms. Under the following terms:
 
